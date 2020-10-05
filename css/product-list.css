@@ -1,0 +1,35 @@
+@import url(normalize.css);
+
+body {
+	margin: 0 auto;
+	max-width: 60%;
+	border: 1px solid black;
+	
+}
+
+
+
+.title {
+	border: 1px solid black;
+
+}
+.title__text {
+	text-align: center;
+}
+
+.table {
+	border: 1px solid black;
+}
+
+.table__main-table {
+
+}
+
+.footer {
+	
+	border: 1px solid black;
+}
+
+.footer__text {
+	text-align: center;
+}

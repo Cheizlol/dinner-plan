@@ -1,0 +1,113 @@
+@import url(normalize.css);
+
+
+
+body {
+	margin: 0 auto;
+	max-width: 60%;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	background-color: #36BBCE;
+	min-height: 100%;
+	height: 0 auto;
+	
+}
+
+.title {
+	border: 1px solid black;
+	background-color: #111;
+	border-radius: 10px;
+}
+
+.title__text {
+	padding: 10px 0 15px 0;
+	font-weight: bold;
+	color: #FFAA00;
+	font-size: 50px;
+	text-align: center;
+}
+
+.column__block {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	color: yellow;
+	margin: 30px 0 0 0;
+}
+
+.column__day {
+	border: 1px solid;
+	border-radius: 20% ;
+	padding: 10px 20px 20px 20px;
+	border-color: #0D58A6;
+	background-color: #0D58A6;
+	margin: 15px 0 25px 15px;
+	flex: 1 1 auto;
+}
+
+.column__title {
+	font-size: 25px;
+	text-align: center;
+	padding: 0 0 10px 0;
+	font-weight: bold;
+	text-decoration: underline;
+	
+}
+
+.column__item {
+	font-size: 18px;
+	line-height: 25px;
+	font-weight: 600;
+}
+
+a {
+	color: yellow;
+}
+
+a:hover {
+	color: red;
+}
+
+.footer {
+	border: 1px solid black;
+	background-color: #111;
+	border-radius: 10px;
+
+}
+
+.footer__text {
+	padding: 20px;
+	text-align: center;
+	font-weight: bold;
+	color: #FFAA00;
+	font-size: 20px;
+
+
+}
+
+.column__day_1 {
+
+}
+
+.column__day_2 {
+
+}
+
+.column__day_3 {
+
+}
+
+.column__day_4 {
+
+}
+
+.column__day_5 {
+
+}
+
+.column__day_6 {
+
+}
+
+.column__day_7 {
+text-align: center;
+}
